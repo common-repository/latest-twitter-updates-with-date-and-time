@@ -1,0 +1,26 @@
+.widget_latest_twitter_widget{ text-align: left; padding: 15px 0px 0px; list-style:none; }
+.latest-twitter-tweet{ margin-top: 10px;font-weight: bold;font-size: 11px;font-family: Arial, Helvetica,sans-serif;}
+#latest-twitter-widget-icon, #latest-twitter-widget-pic{ float: left; border: 0px; margin-right: 5px; }
+#latest-twitter-follow-link{ text-align: right; text-transform: uppercase; letter-spacing: 1px; font: 7pt/15pt arial; }
+.latest-twitter-tweet-time{ font: 9pt/12pt arial; color: #999999; margin-bottom: 10px; }
+.twitter_link{color: #369;text-decoration: underline;outline: 0;font-weight: normal;}
+#latest-twitter-widget-icon2 {margin-left: 5px;}
+.widget_latest_twitter_widget{ background:#80bae2; padding:15px !important; color:#fff; }
+.widget_latest_twitter_widget a{ color:#fff !important; }
+.widget_latest_twitter_widget h3{ color:#fff !important; font-size:1.2em; }
+.latest-twitter-tweet:first-child{ border-top:none; padding-top:0px; }
+.latest-twitter-tweet {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 15px;
+    margin-top: 10px;
+	padding-left: 22px;
+    padding-bottom: 5px;
+padding-top:12px;
+border-top:1px dotted #fff;
+background:url(http://www.eepybird.com/wp-content/themes/plainscape/_img/twitter-bird-dark-bgs.png) no-repeat left 12px;
+background-size:20px 20px;
+}
+
+.widget_latest_twitter_widget h3.widget-title{ margin:0px; }
